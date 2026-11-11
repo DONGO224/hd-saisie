@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dongo224.github.io/hd-saisie/sitemap.xml
